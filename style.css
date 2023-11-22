@@ -14,3 +14,7 @@
     color:brown;
     transition: 0.7s;
 }
+img{
+    background-position: center;
+    background-size: cover;
+}
